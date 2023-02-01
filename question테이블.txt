@@ -1,0 +1,8 @@
+create table question(
+    -> id int auto_increment primary key,
+    -> email varchar(100),
+    -> ptitle varchar(100),
+    -> content varchar(200),
+    -> writeday date,
+    -> seq int,
+    -> grp int);

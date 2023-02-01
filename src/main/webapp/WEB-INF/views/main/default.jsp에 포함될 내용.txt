@@ -1,0 +1,4 @@
+view/common/default.jsp »ý¼º
+
+
+<%@ taglib prefix="decorator" uri="http://www.opensymphony.com/sitemesh/decorator" %>    

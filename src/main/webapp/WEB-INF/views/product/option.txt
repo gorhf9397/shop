@@ -1,0 +1,13 @@
+<select>
+
+</select>
+
+option 태그의 길이 => length
+option 태그에 나타낼글자 => text
+option 태그에 값을 서버로 => value
+
+	dae 	
+	01 농산물
+	02 수산물
+	03 축산물
+	04 가공품

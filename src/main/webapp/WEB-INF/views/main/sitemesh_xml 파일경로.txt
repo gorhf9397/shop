@@ -1,0 +1,4 @@
+web.xml 과 같은 경로에
+sitemesh-decorators.xml
+sitemesh.xml 
+을 위치시킨다 

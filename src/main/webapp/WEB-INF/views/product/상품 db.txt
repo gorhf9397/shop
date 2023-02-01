@@ -1,0 +1,16 @@
+대분류 table
+id int...
+code char(),
+title char();
+
+중분류 table
+id int...
+code char(),
+title char()
+daecode char(2);
+
+소분류 table
+id int...
+code char(),
+title char()
+daejung char();

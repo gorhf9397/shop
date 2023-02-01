@@ -1,0 +1,9 @@
+ select g.* , 
+p.pimg, p.title,p.price,
+ b.name,b.phone as hphone,b.juso,b.juso_etc,b.chuga  
+from product as p, baesong as b, gumae as g
+ where g.pcode=p.pcode and g.bae_id=b.id and jumuncode='channy0001';
+
+
+저장할 VO를 따로 생성
+ProductViewVO

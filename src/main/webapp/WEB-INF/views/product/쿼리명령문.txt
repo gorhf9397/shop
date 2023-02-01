@@ -1,0 +1,7 @@
+select max(pcode) from product;
+
+select max(pcode) from product where pcode like 'p010101%';
+
+select substring(max(pcode),8,3) from product where pcode like 'p010101%';
+
+select ifnull (substring(max(pcode),8,3) , "0") from product where pcode like 'p010101%';

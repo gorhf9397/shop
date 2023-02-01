@@ -1,0 +1,7 @@
+ 배송일을 구하기
+
+쿼리문에서 작업
+
+, adddate(curdate(),baeday) as baeday2 를 추가하여 배송일을 구한다..
+
+VO에  baeday2의 필드를 추가  getter,setter를 생성

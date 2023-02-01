@@ -1,0 +1,20 @@
+1:1상담
+테이블 : counsel
+id
+userid
+title
+content
+writeday
+
+사용자
+write.jsp
+list.jsp(자기)
+content.jsp
+update
+delete
+
+
+관리자
+list.jsp(전부)
+content.jsp
+delete
